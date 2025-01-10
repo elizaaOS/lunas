@@ -1,7 +1,7 @@
-# Eliza 🤖
+# Lunas🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/eliza_banner.jpg" alt="LunasBanner" width="100%" />
 </div>
 
 <div align="center">
@@ -78,7 +78,7 @@ pnpm install --include=optional sharp
 
 ### Topluluk ve İletişim
 
-- [GitHub Issues](https://github.com/elizaos/eliza/issues). Buna uygundur: Eliza kullanırken karşılaştığınız hatalar ve özellik önerileri.
+- [GitHub Issues](https://github.com/elizaos/eliza/issues). Buna uygundur: Lunaskullanırken karşılaştığınız hatalar ve özellik önerileri.
 - [Discord](https://discord.gg/ai16z). Buna uygundur: Uygulamalarınızı paylaşmak ve toplulukla vakit geçirmek.
 
 ## Katkıda Bulunanlar

@@ -1,7 +1,7 @@
-# Eliza 🤖
+# Lunas🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/eliza_banner.jpg" alt="LunasBanner" width="100%" />
 </div>
 
 <div align="center">
@@ -48,9 +48,9 @@ cp .env.example .env
 pnpm i && pnpm start
 ```
 
-Lies dann die [Dokumentation](https://elizaos.github.io/eliza/), um zu erfahren, wie du Eliza anpassen kannst.
+Lies dann die [Dokumentation](https://elizaos.github.io/eliza/), um zu erfahren, wie du Lunasanpassen kannst.
 
-### Manuelles Starten von Eliza (Nur empfohlen, wenn du genau weißt, was du tust)
+### Manuelles Starten von Lunas(Nur empfohlen, wenn du genau weißt, was du tust)
 
 ```bash
 # Repository klonen
@@ -61,7 +61,7 @@ git clone https://github.com/elizaos/eliza.git
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Eliza mit Gitpod starten
+### Lunasmit Gitpod starten
 
 [![In Gitpod öffnen](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
 
@@ -75,7 +75,7 @@ cp .env.example .env
 
 Hinweis: .env ist optional. Wenn du vorhast, mehrere unterschiedliche Agenten auszuführen, kannst du Geheimnisse über die Charakter-JSON übergeben.
 
-### Eliza automatisch starten
+### Lunasautomatisch starten
 
 Dies führt alle notwendigen Schritte aus, um das Projekt einzurichten und den Bot mit dem Standardcharakter zu starten.
 
@@ -93,7 +93,7 @@ sh scripts/start.sh
 3. Verbinde mit X (Twitter)
     - Ändere `"clients": []` zu `"clients": ["twitter"]` in der Charakterdatei, um eine Verbindung mit X herzustellen.
 
-### Eliza manuell starten
+### Lunasmanuell starten
 
 ```bash
 pnpm i
@@ -114,7 +114,7 @@ pnpm install --include=optional sharp
 
 ### Community & Kontakt
 
-- [GitHub Issues](https://github.com/elizaos/eliza/issues). Am besten geeignet für: Bugs, die du bei der Nutzung von Eliza findest, und Feature-Vorschläge.
+- [GitHub Issues](https://github.com/elizaos/eliza/issues). Am besten geeignet für: Bugs, die du bei der Nutzung von Lunasfindest, und Feature-Vorschläge.
 - [Discord](https://discord.gg/ai16z). Am besten geeignet für: das Teilen deiner Anwendungen und den Austausch mit der Community.
 
 ## Contributors

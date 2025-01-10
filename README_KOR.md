@@ -1,7 +1,7 @@
-# Eliza 🤖
+# Lunas🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/eliza_banner.jpg" alt="LunasBanner" width="100%" />
 </div>
 
 <div align="center">
@@ -62,7 +62,7 @@ git clone https://github.com/elizaos/eliza.git
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Gitpod로 Eliza 시작
+### Gitpod로 Lunas시작
 
 [![Gitpod로 열기](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
 
@@ -76,7 +76,7 @@ cp .env.example .env
 
 참고: .env는 선택 사항입니다. 여러 개의 에이전트를 실행하려는 경우, 캐릭터 JSON 파일을 통해 비밀 변수를 전달할 수 있습니다.
 
-### Eliza 자동 시작
+### Lunas자동 시작
 
 아래 명령은 프로젝트를 설정하고 기본 캐릭터와 함께 봇을 시작합니다.
 
@@ -94,7 +94,7 @@ sh scripts/start.sh
 3. X (Twitter) 연결:
     - 캐릭터 파일에서 `"clients": []`를 `"clients": ["twitter"]`로 변경합니다.
 
-### Eliza 수동 시작
+### Lunas수동 시작
 
 ```bash
 pnpm i
@@ -115,7 +115,7 @@ pnpm install --include=optional sharp
 
 ### 커뮤니티 & 문의
 
-- [Github Issues](https://github.com/elizaos/eliza/issues). 용도: Eliza 사용 중 발견된 버그 리포트, 기능 제안.
+- [Github Issues](https://github.com/elizaos/eliza/issues). 용도: Lunas사용 중 발견된 버그 리포트, 기능 제안.
 - [Discord](https://discord.gg/ai16z). 용도: 애플리케이션 공유 및 커뮤니티 활동.
 
 ## 기여자

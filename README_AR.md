@@ -1,7 +1,7 @@
-# Eliza 🤖
+# Lunas🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/eliza_banner.jpg" alt="LunasBanner" width="100%" />
 </div>
 
 <div align="center">
@@ -52,7 +52,7 @@ cp .env.example .env
 pnpm i && pnpm start
 ```
 
-تعلم أكثر عن كيفية تخصيص إليزا من هنا [التعليمات](https://elizaos.github.io/eliza/) 
+تعلم أكثر عن كيفية تخصيص إليزا من هنا [التعليمات](https://elizaos.github.io/eliza/)
 
 ### إذا كان لديك خبرة بالفعل، يُمكنك تشغيل إليزا يدويًا.
 
@@ -65,7 +65,7 @@ git clone https://github.com/elizaos/eliza.git
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### تشغل إليزا مع Gitpod 
+### تشغل إليزا مع Gitpod
 
 [![In Gitpod öffnen](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
 
@@ -119,7 +119,7 @@ pnpm install --include=optional sharp
 
 ### المجتمع والدعم
 
-- في حال إذا واجهت أي مشاكل تتعلق باستخدام إليزا ولتقديم المقترحات  [GitHub Issues](https://github.com/elizaos/eliza/issues). 
+- في حال إذا واجهت أي مشاكل تتعلق باستخدام إليزا ولتقديم المقترحات  [GitHub Issues](https://github.com/elizaos/eliza/issues).
 - لمشاركة تطبيقاتك والتفاعل مع المجتمع [Discord](https://discord.gg/ai16z).
 
 ## المُساهمون

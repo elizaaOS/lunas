@@ -1,7 +1,7 @@
-# Eliza 🤖
+# Lunas🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/eliza_banner.jpg" alt="LunasBanner" width="100%" />
 </div>
 
 <div align="center">
@@ -55,7 +55,7 @@ pnpm start:client
 
 Ezután olvasd el a [Dokumentációt](https://elizaos.github.io/eliza/) hogy megtanuld, hogyan testreszabhatod Elizát.
 
-### Eliza manuális indítása (Csak akkor ajánlott, ha pontosan tudod, mit csinálsz)
+### Lunasmanuális indítása (Csak akkor ajánlott, ha pontosan tudod, mit csinálsz)
 
 ```bash
 # Klónozd a repót
@@ -66,7 +66,7 @@ git clone https://github.com/elizaos/eliza.git
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Eliza indítása Gitpoddal
+### Lunasindítása Gitpoddal
 
 [![Megnyitás Gitpodban](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
 
@@ -80,7 +80,7 @@ cp .env.example .env
 
 Megjegyzés: A .env fájl opcionális. Ha több különálló ügynököt szeretnél futtatni, a titkos adatokat a karakter JSON-on keresztül is megadhatod.
 
-### Eliza automatikus indítása
+### Lunasautomatikus indítása
 
 Ez a parancs mindent beállít a projekthez, és elindítja a botot az alapértelmezett karakterrel.
 
@@ -98,7 +98,7 @@ sh scripts/start.sh
 3. Kapcsolódás X-hez (Twitter)
     - Módosítsd a `"clients": []` részt `"clients": ["twitter"]` -re a karakterfájlban, hogy csatlakozz az X-hez
 
-### Eliza manuális indítása
+### Lunasmanuális indítása
 
 ```bash
 pnpm i

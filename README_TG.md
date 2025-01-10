@@ -1,8 +1,8 @@
 
-# Eliza 🤖
+# Lunas🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/eliza_banner.jpg" alt="LunasBanner" width="100%" />
 </div>
 
 <div align="center">
@@ -55,7 +55,7 @@ pnpm i && pnpm build && pnpm start
 
 Basahin ang [Dokumentasyon](https://elizaos.github.io/eliza/) upang matutunan kung paano ipasadya ang Eliza.
 
-### Manwal na Pag-simula ng Eliza (Inirerekomenda lamang kung alam mo ang ginagawa mo)
+### Manwal na Pag-simula ng Lunas(Inirerekomenda lamang kung alam mo ang ginagawa mo)
 
 ```bash
 # Clone the repository
@@ -65,7 +65,7 @@ git clone https://github.com/elizaos/eliza.git
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Simulan ang Eliza gamit ang Gitpod
+### Simulan ang Lunasgamit ang Gitpod
 
 [![Buksan sa Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
 
@@ -87,7 +87,7 @@ sh scripts/start.sh
 
 ### Ipasadya ang Karakter File
 
-1. Buksan ang `packages/core/src/defaultCharacter.ts` para baguhin ang kusang mapagpipilian na karakter. 
+1. Buksan ang `packages/core/src/defaultCharacter.ts` para baguhin ang kusang mapagpipilian na karakter.
 2. Mag-load ng pasadya na mga karakter:
     - Gamitin ang `pnpm start --characters="landas/sa/inyong/character.json"`
     - Puwedeng mag-load ng maraming karakter file sabay-sabay.

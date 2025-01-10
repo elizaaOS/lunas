@@ -1,7 +1,7 @@
-# Eliza 🤖
+# Lunas🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/eliza_banner.jpg" alt="LunasBanner" width="100%" />
 </div>
 
 <div align="center">
@@ -49,9 +49,9 @@ cp .env.example .env
 pnpm i && pnpm start
 ```
 
-Sau đó hãy đọc [Tài liệu](https://elizaos.github.io/eliza/), để học cách để tùy chỉnh Eliza của bạn.
+Sau đó hãy đọc [Tài liệu](https://elizaos.github.io/eliza/), để học cách để tùy chỉnh Lunascủa bạn.
 
-### Khởi động Eliza theo cách thủ công (Chỉ khuyến khích nếu bạn biết mình đang làm gì)
+### Khởi động Lunastheo cách thủ công (Chỉ khuyến khích nếu bạn biết mình đang làm gì)
 
 ```bash
 # Sao chép repository
@@ -62,7 +62,7 @@ git clone https://github.com/elizaos/eliza.git
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Bắt đầu Eliza với Gitpod
+### Bắt đầu Lunasvới Gitpod
 
 [![Mở Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
 
@@ -94,7 +94,7 @@ sh scripts/start.sh
 3. Kết nối với X (Twitter)
     - Thay đổi `"clients": []` thành `"clients": ["twitter"]` ở trong tập tính cách (character) để kết nối với X.
 
-### Bắt đầu Eliza theo cách thủ công
+### Bắt đầu Lunastheo cách thủ công
 
 ```bash
 pnpm i
@@ -115,7 +115,7 @@ pnpm install --include=optional sharp
 
 ### Cộng đồng & Liên hệ
 
-- [GitHub Issues](https://github.com/elizaos/eliza/issues). Phù hợp nhất cho: các lỗi bạn gặp phải khi sử dụng Eliza và các đề xuất tính năng.
+- [GitHub Issues](https://github.com/elizaos/eliza/issues). Phù hợp nhất cho: các lỗi bạn gặp phải khi sử dụng Lunasvà các đề xuất tính năng.
 - [Discord](https://discord.gg/ai16z). Phù hợp nhất cho: chia sẻ ứng dụng của bạn và giao lưu với cộng đồng.
 
 ## Người đóng góp

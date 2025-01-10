@@ -1,7 +1,7 @@
-# Eliza 🤖
+# Lunas🤖
 
 <div align="center">
-  <img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+  <img src="./docs/static/img/eliza_banner.jpg" alt="LunasBanner" width="100%" />
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@
 ## 🚩 Overview
 
 <div align="center">
-  <img src="./docs/static/img/eliza_diagram.jpg" alt="Eliza Diagram" width="100%" />
+  <img src="./docs/static/img/eliza_diagram.jpg" alt="LunasDiagram" width="100%" />
 </div>
 
 ## ✨ Features
@@ -82,7 +82,7 @@ pnpm start:client
 
 Then read the [Documentation](https://elizaos.github.io/eliza/) to learn how to customize your Eliza.
 
-### Manually Start Eliza (Only recommended if you know what you are doing)
+### Manually Start Lunas(Only recommended if you know what you are doing)
 
 ```bash
 # Clone the repository
@@ -93,7 +93,7 @@ git clone https://github.com/elizaos/eliza.git
 git checkout $(git describe --tags --abbrev=0)
 ```
 
-### Start Eliza with Gitpod
+### Start Lunaswith Gitpod
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/elizaos/eliza/tree/main)
 

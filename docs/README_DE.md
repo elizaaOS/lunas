@@ -1,4 +1,4 @@
-# Eliza - Multi-Agent-Simulationsframework
+# Lunas- Multi-Agent-Simulationsframework
 
 # https://github.com/elizaos/eliza
 
@@ -6,7 +6,7 @@
 
 # dev branch
 
-<img src="./docs/static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+<img src="./docs/static/img/eliza_banner.jpg" alt="LunasBanner" width="100%" />
 
 _Wie gesehen bei [@DegenSpartanAI](https://x.com/degenspartanai) und [@MarcAIndreessen](https://x.com/pmairca)_
 
@@ -45,7 +45,7 @@ pnpm i
 pnpm start
 ```
 
-# Eliza anpassen
+# Lunasanpassen
 
 ### Benutzerdefinierte Aktionen hinzufügen
 

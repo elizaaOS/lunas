@@ -1,4 +1,4 @@
-# Eliza - Framework de simulación multi-agente
+# Lunas- Framework de simulación multi-agente
 
 # https://github.com/elizaOS/eliza
 
@@ -10,7 +10,7 @@
 
 # dev branch
 
-<img src="static/img/eliza_banner.jpg" alt="Eliza Banner" width="100%" />
+<img src="static/img/eliza_banner.jpg" alt="LunasBanner" width="100%" />
 
 _Respaldado por [@DegenSpartanAI](https://x.com/degenspartanai) y [@MarcAIndreessen](https://x.com/pmairca)_
 
